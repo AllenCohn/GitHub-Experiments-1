@@ -6,3 +6,5 @@ The elephant was sure to go
 =======
 And then the things happened
 >>>>>>> origin/master
+
+This is the beginning of a new poem.
