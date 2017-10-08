@@ -8,3 +8,5 @@ And then the things happened
 >>>>>>> origin/master
 
 This is the beginning of a new poem.
+
+And another poem.
